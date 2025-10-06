@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C60D8611-6803-46BE-9265-349E7EF004F7}|UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.infraestructure\\migrations\\20251006083928_lastmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60D8611-6803-46BE-9265-349E7EF004F7}|UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj|solutionrelative:userchallenge.infraestructure\\migrations\\20251006083928_lastmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3469D2EB-3029-4BD9-A638-6A348A40E132}|UserChallenge.API\\UserChallenge.API.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3469D2EB-3029-4BD9-A638-6A348A40E132}|UserChallenge.API\\UserChallenge.API.csproj|solutionrelative:userchallenge.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3469D2EB-3029-4BD9-A638-6A348A40E132}|UserChallenge.API\\UserChallenge.API.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3469D2EB-3029-4BD9-A638-6A348A40E132}|UserChallenge.API\\UserChallenge.API.csproj|solutionrelative:userchallenge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A8ABA7-BF45-429C-936C-1CABB32CE3EF}|UserChallenge.UnitTest\\UserChallenge.UnitTest.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.unittest\\usuariotests\\usuariocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A8ABA7-BF45-429C-936C-1CABB32CE3EF}|UserChallenge.UnitTest\\UserChallenge.UnitTest.csproj|solutionrelative:userchallenge.unittest\\usuariotests\\usuariocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A8ABA7-BF45-429C-936C-1CABB32CE3EF}|UserChallenge.UnitTest\\UserChallenge.UnitTest.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.unittest\\usuariotests\\exceptionhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A8ABA7-BF45-429C-936C-1CABB32CE3EF}|UserChallenge.UnitTest\\UserChallenge.UnitTest.csproj|solutionrelative:userchallenge.unittest\\usuariotests\\exceptionhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A8ABA7-BF45-429C-936C-1CABB32CE3EF}|UserChallenge.UnitTest\\UserChallenge.UnitTest.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.unittest\\usuariotests\\usuarioservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A8ABA7-BF45-429C-936C-1CABB32CE3EF}|UserChallenge.UnitTest\\UserChallenge.UnitTest.csproj|solutionrelative:userchallenge.unittest\\usuariotests\\usuarioservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3469D2EB-3029-4BD9-A638-6A348A40E132}|UserChallenge.API\\UserChallenge.API.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.api\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3469D2EB-3029-4BD9-A638-6A348A40E132}|UserChallenge.API\\UserChallenge.API.csproj|solutionrelative:userchallenge.api\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|UserChallenge.Tests{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\cover.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|UserChallenge.Tests{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:cover.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60D8611-6803-46BE-9265-349E7EF004F7}|UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.infraestructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60D8611-6803-46BE-9265-349E7EF004F7}|UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj|solutionrelative:userchallenge.infraestructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60D8611-6803-46BE-9265-349E7EF004F7}|UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.infraestructure\\migrations\\20251005142350_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60D8611-6803-46BE-9265-349E7EF004F7}|UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj|solutionrelative:userchallenge.infraestructure\\migrations\\20251005142350_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60D8611-6803-46BE-9265-349E7EF004F7}|UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.infraestructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60D8611-6803-46BE-9265-349E7EF004F7}|UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj|solutionrelative:userchallenge.infraestructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C984715F-4D3A-489F-9F01-B268FB79969A}|UserChallenge.Domain\\UserChallenge.Domain.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.domain\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C984715F-4D3A-489F-9F01-B268FB79969A}|UserChallenge.Domain\\UserChallenge.Domain.csproj|solutionrelative:userchallenge.domain\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C984715F-4D3A-489F-9F01-B268FB79969A}|UserChallenge.Domain\\UserChallenge.Domain.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.domain\\model\\domicilio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C984715F-4D3A-489F-9F01-B268FB79969A}|UserChallenge.Domain\\UserChallenge.Domain.csproj|solutionrelative:userchallenge.domain\\model\\domicilio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.application\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|solutionrelative:userchallenge.application\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.application\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|solutionrelative:userchallenge.application\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.application\\mappings\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|solutionrelative:userchallenge.application\\mappings\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.application\\dtos\\usuarios\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|solutionrelative:userchallenge.application\\dtos\\usuarios\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.application\\dtos\\usuarios\\updateusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|solutionrelative:userchallenge.application\\dtos\\usuarios\\updateusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.application\\dtos\\usuarios\\registerusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|solutionrelative:userchallenge.application\\dtos\\usuarios\\registerusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.application\\dtos\\usuarios\\filtersusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|solutionrelative:userchallenge.application\\dtos\\usuarios\\filtersusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.application\\dtos\\usuarios\\createdusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|solutionrelative:userchallenge.application\\dtos\\usuarios\\createdusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.application\\dtos\\domicilios\\domiciliodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|solutionrelative:userchallenge.application\\dtos\\domicilios\\domiciliodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.application\\dtos\\domicilios\\createddomiciliodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|solutionrelative:userchallenge.application\\dtos\\domicilios\\createddomiciliodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|c:\\users\\usuario\\documents\\ejercitacion\\challenge\\challengenet\\usertest\\userchallenge.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E85670-C805-4714-B080-BBE80C26C8E5}|UserChallenge.Application\\UserChallenge.Application.csproj|solutionrelative:userchallenge.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251006083928_LastMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Infraestructure\\Migrations\\20251006083928_LastMigration.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Infraestructure\\Migrations\\20251006083928_LastMigration.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Infraestructure\\Migrations\\20251006083928_LastMigration.cs",
+              "RelativeToolTip": "UserChallenge.Infraestructure\\Migrations\\20251006083928_LastMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:39:29.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.API\\Program.cs",
+              "RelativeDocumentMoniker": "UserChallenge.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.API\\Program.cs",
+              "RelativeToolTip": "UserChallenge.API\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:19:52.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.UnitTest\\UsuarioTests\\ExceptionHandlerTest.cs",
+              "RelativeDocumentMoniker": "UserChallenge.UnitTest\\UsuarioTests\\ExceptionHandlerTest.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.UnitTest\\UsuarioTests\\ExceptionHandlerTest.cs",
+              "RelativeToolTip": "UserChallenge.UnitTest\\UsuarioTests\\ExceptionHandlerTest.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwD0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:56:22.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.UnitTest\\UsuarioTests\\UsuarioControllerTest.cs",
+              "RelativeDocumentMoniker": "UserChallenge.UnitTest\\UsuarioTests\\UsuarioControllerTest.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.UnitTest\\UsuarioTests\\UsuarioControllerTest.cs",
+              "RelativeToolTip": "UserChallenge.UnitTest\\UsuarioTests\\UsuarioControllerTest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwF0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:40:53.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.API\\Handlers\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "UserChallenge.API\\Handlers\\ExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.API\\Handlers\\ExceptionHandler.cs",
+              "RelativeToolTip": "UserChallenge.API\\Handlers\\ExceptionHandler.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:38:13.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cover.runsettings",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\cover.runsettings",
+              "RelativeDocumentMoniker": "cover.runsettings",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\cover.runsettings",
+              "RelativeToolTip": "cover.runsettings",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-06T07:27:03.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Infraestructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Infraestructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Infraestructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "UserChallenge.Infraestructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:08:12.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251005142350_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Infraestructure\\Migrations\\20251005142350_InitialCreate.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Infraestructure\\Migrations\\20251005142350_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Infraestructure\\Migrations\\20251005142350_InitialCreate.cs",
+              "RelativeToolTip": "UserChallenge.Infraestructure\\Migrations\\20251005142350_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:08:06.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Infraestructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Infraestructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Infraestructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "UserChallenge.Infraestructure\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:07:55.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Domain\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Domain\\Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Domain\\Model\\Usuario.cs",
+              "RelativeToolTip": "UserChallenge.Domain\\Model\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:07:48.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Domicilio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Domain\\Model\\Domicilio.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Domain\\Model\\Domicilio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Domain\\Model\\Domicilio.cs",
+              "RelativeToolTip": "UserChallenge.Domain\\Model\\Domicilio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:07:41.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Application\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "UserChallenge.Application\\Services\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:07:13.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Application\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "UserChallenge.Application\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:07:08.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\Mappings\\UsuarioProfile.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Application\\Mappings\\UsuarioProfile.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\Mappings\\UsuarioProfile.cs",
+              "RelativeToolTip": "UserChallenge.Application\\Mappings\\UsuarioProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:07:02.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\DTOs\\Usuarios\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Application\\DTOs\\Usuarios\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\DTOs\\Usuarios\\UsuarioDto.cs",
+              "RelativeToolTip": "UserChallenge.Application\\DTOs\\Usuarios\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:06:55.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\DTOs\\Usuarios\\UpdateUsuario.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Application\\DTOs\\Usuarios\\UpdateUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\DTOs\\Usuarios\\UpdateUsuario.cs",
+              "RelativeToolTip": "UserChallenge.Application\\DTOs\\Usuarios\\UpdateUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:06:48.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\DTOs\\Usuarios\\RegisterUsuario.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Application\\DTOs\\Usuarios\\RegisterUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\DTOs\\Usuarios\\RegisterUsuario.cs",
+              "RelativeToolTip": "UserChallenge.Application\\DTOs\\Usuarios\\RegisterUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:01:52.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FiltersUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\DTOs\\Usuarios\\FiltersUsuario.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Application\\DTOs\\Usuarios\\FiltersUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\DTOs\\Usuarios\\FiltersUsuario.cs",
+              "RelativeToolTip": "UserChallenge.Application\\DTOs\\Usuarios\\FiltersUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:01:46.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreatedUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\DTOs\\Usuarios\\CreatedUsuarioDto.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Application\\DTOs\\Usuarios\\CreatedUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\DTOs\\Usuarios\\CreatedUsuarioDto.cs",
+              "RelativeToolTip": "UserChallenge.Application\\DTOs\\Usuarios\\CreatedUsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:01:41.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DomicilioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\DTOs\\Domicilios\\DomicilioDto.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Application\\DTOs\\Domicilios\\DomicilioDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\DTOs\\Domicilios\\DomicilioDto.cs",
+              "RelativeToolTip": "UserChallenge.Application\\DTOs\\Domicilios\\DomicilioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:01:34.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreatedDomicilioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\DTOs\\Domicilios\\CreatedDomicilioDto.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Application\\DTOs\\Domicilios\\CreatedDomicilioDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\DTOs\\Domicilios\\CreatedDomicilioDto.cs",
+              "RelativeToolTip": "UserChallenge.Application\\DTOs\\Domicilios\\CreatedDomicilioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:01:21.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "UserChallenge.Application\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "UserChallenge.Application\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADgvzcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:13:18.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.UnitTest\\UsuarioTests\\UsuarioServiceTest.cs",
+              "RelativeDocumentMoniker": "UserChallenge.UnitTest\\UsuarioTests\\UsuarioServiceTest.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.UnitTest\\UsuarioTests\\UsuarioServiceTest.cs",
+              "RelativeToolTip": "UserChallenge.UnitTest\\UsuarioTests\\UsuarioServiceTest.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAIBJwC8BAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T04:31:27.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "UserChallenge.API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "UserChallenge.API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAqwBkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T04:29:05.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

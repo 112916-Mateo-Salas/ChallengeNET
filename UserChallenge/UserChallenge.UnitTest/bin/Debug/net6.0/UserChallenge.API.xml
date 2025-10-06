@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UserChallenge.API</name>
+    </assembly>
+    <members>
+        <member name="M:UserChallenge.API.Controllers.UsuarioController.GetUsuarioById(System.Int32)">
+            <summary>
+            Obtiene un usuario por su identificador.
+            </summary>
+            /// <param name="id">Identificador de usuario.</param>
+            <returns>UsuarioDto con los datos del usuario.</returns>
+            <response code="200">Devuelve el usuario.</response>
+            <response code="404">Usuario no encontrado.</response>
+            <response code="500">Error interno del servidor.</response>
+        </member>
+        <member name="M:UserChallenge.API.Controllers.UsuarioController.GetUsuariosByFilters(UserChallenge.Application.DTOs.Usuarios.FiltersUsuario)">
+            <summary>
+            Obtiene una lista de usuarios filtrada por nombre, provincia o ciudad.
+            </summary>
+            <param name="filtros">Filtros de búsqueda (nombre/provincia/ciudad).</param>
+            <returns>Lista de usuarios que cumplen los filtros.</returns>
+            <response code="200">Devuelve la lista (puede estar vacía).</response>
+            <response code="500">Error interno del servidor.</response>
+        </member>
+        <member name="M:UserChallenge.API.Controllers.UsuarioController.CreateUsuario(UserChallenge.Application.DTOs.Usuarios.RegisterUsuario)">
+            <summary>
+            Crea un nuevo usuario.
+            </summary>
+            <param name="usuario">Datos del usuario a crear.</param>
+            <returns>Objeto con la referencia al recurso creado.</returns>
+            <response code="201">Recurso creado correctamente.</response>
+            <response code="400">Solicitud inválida.</response>
+            <response code="500">Error interno del servidor.</response>
+        </member>
+        <member name="M:UserChallenge.API.Controllers.UsuarioController.UpdateUsuario(System.Int32,UserChallenge.Application.DTOs.Usuarios.UpdateUsuario)">
+            <summary>
+            Actualiza un usuario existente.
+            </summary>
+            <param name="id">Id del usuario a actualizar.</param>
+            <param name="usuario">Datos a actualizar.</param>
+            <response code="204">Actualización correcta, sin contenido de retorno.</response>
+            <response code="400">Solicitud inválida.</response>
+            <response code="404">Usuario no encontrado.</response>
+            <response code="500">Error interno del servidor.</response>
+        </member>
+        <member name="M:UserChallenge.API.Controllers.UsuarioController.DeleteUsuario(System.Int32)">
+            <summary>
+            Elimina un usuario por su id.
+            </summary>
+            <param name="id">Id del usuario a eliminar.</param>
+            <response code="204">Eliminación correcta.</response>
+            <response code="404">Usuario no encontrado.</response>
+            <response code="500">Error interno del servidor.</response>
+        </member>
+    </members>
+</doc>

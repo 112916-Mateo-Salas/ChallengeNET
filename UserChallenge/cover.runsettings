@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <DataCollectionRunSettings>
+    <DataCollectors>
+      <DataCollector friendlyName="XPlat code coverage">
+        <Configuration>
+          <Format>cobertura,opencover</Format>
+
+          <!-- Excluir por namespace / tipo -->
+          <Exclude>[UserChallenge.Application]*.DTOs.*,[UserChallenge.Application]*.Mappings.*,[UserChallenge.Domain]*.Models.*,[UserChallenge.Infrastructure]*.Migrations.*,[UserChallenge.Infrastructure]*.Context*</Exclude>
+
+          <!-- Excluir por archivo (wildcards) -->
+          <ExcludeByFile>**/*Dto.cs,**/*Dto*.cs,**/*Mapping*.cs,**/*Model*.cs,**/Migrations/*,**/*Context.cs,**/*DbContext.cs</ExcludeByFile>
+
+          <!-- Excluir por atributos (si usás [ExcludeFromCodeCoverage]) -->
+          <ExcludeByAttribute>GeneratedCodeAttribute,CompilerGeneratedAttribute,ExcludeFromCodeCoverageAttribute</ExcludeByAttribute>
+
+          <!-- Otras opciones -->
+          <SkipAutoProps>true</SkipAutoProps>
+        </Configuration>
+      </DataCollector>
+    </DataCollectors>
+  </DataCollectionRunSettings>
+</RunSettings>

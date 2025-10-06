@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\bin\Debug\net6.0\UserChallenge.Application.deps.json
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\bin\Debug\net6.0\UserChallenge.Application.dll
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\bin\Debug\net6.0\UserChallenge.Application.pdb
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\bin\Debug\net6.0\UserChallenge.Domain.dll
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\bin\Debug\net6.0\UserChallenge.Domain.pdb
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\obj\Debug\net6.0\UserChallenge.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\obj\Debug\net6.0\UserChallenge.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\obj\Debug\net6.0\UserChallenge.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\obj\Debug\net6.0\UserChallenge.Application.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\obj\Debug\net6.0\UserChallenge.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\obj\Debug\net6.0\UserChallenge.Application.sourcelink.json
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\obj\Debug\net6.0\UserChal.272178AF.Up2Date
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\obj\Debug\net6.0\UserChallenge.Application.dll
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\obj\Debug\net6.0\refint\UserChallenge.Application.dll
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\obj\Debug\net6.0\UserChallenge.Application.pdb
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserChallenge.Application\obj\Debug\net6.0\ref\UserChallenge.Application.dll

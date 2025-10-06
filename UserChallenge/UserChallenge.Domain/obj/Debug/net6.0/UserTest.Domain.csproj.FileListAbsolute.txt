@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserTest.Domain\bin\Debug\net6.0\UserTest.Domain.deps.json
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserTest.Domain\bin\Debug\net6.0\UserTest.Domain.dll
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserTest.Domain\bin\Debug\net6.0\UserTest.Domain.pdb
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserTest.Domain\obj\Debug\net6.0\UserTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserTest.Domain\obj\Debug\net6.0\UserTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserTest.Domain\obj\Debug\net6.0\UserTest.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserTest.Domain\obj\Debug\net6.0\UserTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserTest.Domain\obj\Debug\net6.0\UserTest.Domain.sourcelink.json
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserTest.Domain\obj\Debug\net6.0\UserTest.Domain.dll
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserTest.Domain\obj\Debug\net6.0\refint\UserTest.Domain.dll
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserTest.Domain\obj\Debug\net6.0\UserTest.Domain.pdb
+C:\Users\Usuario\Documents\Ejercitacion\Challenge\ChallengeNET\UserTest\UserTest.Domain\obj\Debug\net6.0\ref\UserTest.Domain.dll
