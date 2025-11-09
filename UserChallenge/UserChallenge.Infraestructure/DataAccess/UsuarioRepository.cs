@@ -57,6 +57,7 @@ namespace UserChallenge.Infraestructure.DataAccess
 
             return await query.ToListAsync();
         }
+        
 
         public async Task UpdateAsync(Usuario usuario)
         {

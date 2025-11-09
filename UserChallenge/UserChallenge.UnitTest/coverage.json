@@ -1,0 +1,1822 @@
+{
+  "UserChallenge.API.dll": {
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.API\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "16": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "60": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "69": 0,
+            "71": 0,
+            "73": 0,
+            "75": 0,
+            "77": 0,
+            "79": 0
+          },
+          "Branches": [
+            {
+              "Line": 63,
+              "Offset": 375,
+              "EndOffset": 377,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 375,
+              "EndOffset": 395,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 39,
+              "Offset": 47,
+              "EndOffset": 49,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 39,
+              "Offset": 47,
+              "EndOffset": 60,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.API\\Handlers\\ExceptionHandler.cs": {
+      "UserChallenge.API.Handlers.ExceptionHandler": {
+        "System.Threading.Tasks.Task UserChallenge.API.Handlers.ExceptionHandler::HandlerExceptionAsync(Microsoft.AspNetCore.Http.HttpContext,System.Exception)": {
+          "Lines": {
+            "29": 3,
+            "30": 3,
+            "33": 3,
+            "35": 3,
+            "38": 1,
+            "39": 1,
+            "41": 1,
+            "42": 1,
+            "44": 1,
+            "45": 1,
+            "47": 0,
+            "48": 0,
+            "51": 3,
+            "53": 3,
+            "55": 3,
+            "56": 3,
+            "57": 3,
+            "58": 3,
+            "59": 3,
+            "60": 3,
+            "62": 3,
+            "63": 3
+          },
+          "Branches": [
+            {
+              "Line": 35,
+              "Offset": 37,
+              "EndOffset": 39,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 35,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 35,
+              "Offset": 37,
+              "EndOffset": 57,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 35,
+              "Offset": 45,
+              "EndOffset": 65,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 35,
+              "Offset": 53,
+              "EndOffset": 73,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 35,
+              "Offset": 53,
+              "EndOffset": 81,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 134,
+              "EndOffset": 136,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            },
+            {
+              "Line": 55,
+              "Offset": 134,
+              "EndOffset": 140,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void UserChallenge.API.Handlers.ExceptionHandler::.ctor(Microsoft.AspNetCore.Http.RequestDelegate,Microsoft.Extensions.Logging.ILogger`1<Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware>)": {
+          "Lines": {
+            "10": 3,
+            "11": 3,
+            "12": 3,
+            "13": 3,
+            "14": 3
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.API.Handlers.ExceptionHandler/<InvokeAsync>d__3": {
+        "System.Void UserChallenge.API.Handlers.ExceptionHandler/<InvokeAsync>d__3::MoveNext()": {
+          "Lines": {
+            "17": 3,
+            "19": 3,
+            "20": 3,
+            "21": 0,
+            "22": 3,
+            "23": 3,
+            "24": 3,
+            "25": 3,
+            "26": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.API\\Controllers\\UsuarioController.cs": {
+      "UserChallenge.API.Controllers.UsuarioController": {
+        "System.Void UserChallenge.API.Controllers.UsuarioController::.ctor(UserChallenge.Application.Services.Interface.IUsuarioService)": {
+          "Lines": {
+            "16": 5,
+            "17": 5,
+            "18": 5,
+            "19": 5
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.API.Controllers.UsuarioController/<CreateUsuario>d__4": {
+        "System.Void UserChallenge.API.Controllers.UsuarioController/<CreateUsuario>d__4::MoveNext()": {
+          "Lines": {
+            "70": 1,
+            "71": 1,
+            "72": 1,
+            "73": 1,
+            "74": 1,
+            "75": 1,
+            "76": 1,
+            "77": 1
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.API.Controllers.UsuarioController/<DeleteUsuario>d__6": {
+        "System.Void UserChallenge.API.Controllers.UsuarioController/<DeleteUsuario>d__6::MoveNext()": {
+          "Lines": {
+            "114": 1,
+            "115": 1,
+            "116": 1,
+            "117": 1
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.API.Controllers.UsuarioController/<GetUsuarioById>d__2": {
+        "System.Void UserChallenge.API.Controllers.UsuarioController/<GetUsuarioById>d__2::MoveNext()": {
+          "Lines": {
+            "35": 1,
+            "36": 1,
+            "37": 1,
+            "38": 1
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.API.Controllers.UsuarioController/<GetUsuariosByFilters>d__3": {
+        "System.Void UserChallenge.API.Controllers.UsuarioController/<GetUsuariosByFilters>d__3::MoveNext()": {
+          "Lines": {
+            "52": 1,
+            "53": 1,
+            "54": 1,
+            "55": 1
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.API.Controllers.UsuarioController/<UpdateUsuario>d__5": {
+        "System.Void UserChallenge.API.Controllers.UsuarioController/<UpdateUsuario>d__5::MoveNext()": {
+          "Lines": {
+            "95": 1,
+            "96": 1,
+            "98": 1,
+            "99": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "UserChallenge.Application.dll": {
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\Validators\\CreateDomicilioValidators.cs": {
+      "UserChallenge.Application.Validators.CreateDomicilioValidators": {
+        "System.Void UserChallenge.Application.Validators.CreateDomicilioValidators::.ctor()": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\Validators\\DomicilioValidationsExtensions.cs": {
+      "UserChallenge.Application.Validators.DomicilioValidationsExtensions": {
+        "FluentValidation.IRuleBuilderOptions`2<T,System.String> UserChallenge.Application.Validators.DomicilioValidationsExtensions::CalleRules(FluentValidation.IRuleBuilder`2<T,System.String>)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        },
+        "FluentValidation.IRuleBuilderOptions`2<T,System.String> UserChallenge.Application.Validators.DomicilioValidationsExtensions::ProvinciaRules(FluentValidation.IRuleBuilder`2<T,System.String>)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        },
+        "FluentValidation.IRuleBuilderOptions`2<T,System.String> UserChallenge.Application.Validators.DomicilioValidationsExtensions::CiudadRules(FluentValidation.IRuleBuilder`2<T,System.String>)": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\Validators\\RegisterUsuarioValidators.cs": {
+      "UserChallenge.Application.Validators.RegisterUsuarioValidators": {
+        "System.Void UserChallenge.Application.Validators.RegisterUsuarioValidators::<.ctor>b__0_3()": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Void UserChallenge.Application.Validators.RegisterUsuarioValidators::.ctor()": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\Validators\\UpdateUsuarioValidators.cs": {
+      "UserChallenge.Application.Validators.UpdateUsuarioValidators": {
+        "System.Void UserChallenge.Application.Validators.UpdateUsuarioValidators::<.ctor>b__0_1()": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Void UserChallenge.Application.Validators.UpdateUsuarioValidators::<.ctor>b__0_3()": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Void UserChallenge.Application.Validators.UpdateUsuarioValidators::<.ctor>b__0_5()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.Void UserChallenge.Application.Validators.UpdateUsuarioValidators::.ctor()": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "21": 0,
+            "26": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\Validators\\UsuarioValidationsExtensions.cs": {
+      "UserChallenge.Application.Validators.UsuarioValidationsExtensions": {
+        "FluentValidation.IRuleBuilderOptions`2<T,System.String> UserChallenge.Application.Validators.UsuarioValidationsExtensions::NombreRules(FluentValidation.IRuleBuilder`2<T,System.String>)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        },
+        "FluentValidation.IRuleBuilderOptions`2<T,System.String> UserChallenge.Application.Validators.UsuarioValidationsExtensions::EmailRules(FluentValidation.IRuleBuilder`2<T,System.String>)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\Services\\ArticuloService.cs": {
+      "UserChallenge.Application.Services.ArticuloService": {
+        "System.Boolean UserChallenge.Application.Services.ArticuloService::DeleteArticulo(System.Int32)": {
+          "Lines": {
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "UserChallenge.Domain.Model.Articulo UserChallenge.Application.Services.ArticuloService::UserChallenge.Application.Services.Interface.IArticuloService.GetArticulo(System.String,System.String)": {
+          "Lines": {
+            "33": 0,
+            "34": 0
+          },
+          "Branches": []
+        },
+        "UserChallenge.Domain.Model.Articulo UserChallenge.Application.Services.ArticuloService::UserChallenge.Application.Services.Interface.IArticuloService.GetArticuloById(System.Int32)": {
+          "Lines": {
+            "38": 0,
+            "39": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Application.Services.ArticuloService::UserChallenge.Application.Services.Interface.IArticuloService.GetArticuloCount(UserChallenge.Domain.Model.Categoria,UserChallenge.Domain.Model.Marca,System.String,System.Decimal)": {
+          "Lines": {
+            "43": 0,
+            "44": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<UserChallenge.Domain.Model.Articulo> UserChallenge.Application.Services.ArticuloService::UserChallenge.Application.Services.Interface.IArticuloService.GetArticulosByCategoria(UserChallenge.Domain.Model.Categoria)": {
+          "Lines": {
+            "48": 0,
+            "49": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<UserChallenge.Domain.Model.Articulo> UserChallenge.Application.Services.ArticuloService::UserChallenge.Application.Services.Interface.IArticuloService.GetArticulosByfilters(System.String,UserChallenge.Domain.Model.Categoria,System.String,System.Decimal)": {
+          "Lines": {
+            "53": 0,
+            "54": 0
+          },
+          "Branches": []
+        },
+        "System.Void UserChallenge.Application.Services.ArticuloService::UserChallenge.Application.Services.Interface.IArticuloService.UpdateArticulo(UserChallenge.Domain.Model.Articulo,System.Int32)": {
+          "Lines": {
+            "58": 0,
+            "59": 0
+          },
+          "Branches": []
+        },
+        "System.Void UserChallenge.Application.Services.ArticuloService::.ctor(UserChallenge.Application.Repositories.IArticuloRepository)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.Application.Services.ArticuloService/<GetAllArticulos>d__3": {
+        "System.Void UserChallenge.Application.Services.ArticuloService/<GetAllArticulos>d__3::MoveNext()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\Services\\UsuarioService.cs": {
+      "UserChallenge.Application.Services.UsuarioService": {
+        "System.Void UserChallenge.Application.Services.UsuarioService::.ctor(UserChallenge.Application.Repositories.IUsuarioRepository,AutoMapper.IMapper)": {
+          "Lines": {
+            "20": 12,
+            "21": 12,
+            "22": 12,
+            "23": 12,
+            "24": 12
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.Application.Services.UsuarioService/<CreateUsuario>d__3": {
+        "System.Void UserChallenge.Application.Services.UsuarioService/<CreateUsuario>d__3::MoveNext()": {
+          "Lines": {
+            "27": 2,
+            "28": 2,
+            "29": 1,
+            "31": 1,
+            "32": 1,
+            "33": 1,
+            "34": 1,
+            "35": 1,
+            "36": 0,
+            "37": 1,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "44": 1
+          },
+          "Branches": [
+            {
+              "Line": 28,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 28,
+              "Offset": 26,
+              "EndOffset": 44,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 35,
+              "Offset": 277,
+              "EndOffset": 279,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 277,
+              "EndOffset": 290,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "UserChallenge.Application.Services.UsuarioService/<DeleteUsuario>d__4": {
+        "System.Void UserChallenge.Application.Services.UsuarioService/<DeleteUsuario>d__4::MoveNext()": {
+          "Lines": {
+            "49": 2,
+            "50": 2,
+            "51": 2,
+            "52": 1,
+            "54": 1,
+            "55": 1
+          },
+          "Branches": [
+            {
+              "Line": 51,
+              "Offset": 173,
+              "EndOffset": 175,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 51,
+              "Offset": 173,
+              "EndOffset": 225,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "UserChallenge.Application.Services.UsuarioService/<GetAllUsuariosByFilters>d__5": {
+        "System.Void UserChallenge.Application.Services.UsuarioService/<GetAllUsuariosByFilters>d__5::MoveNext()": {
+          "Lines": {
+            "58": 3,
+            "60": 3,
+            "61": 3,
+            "63": 2,
+            "65": 1,
+            "66": 1,
+            "67": 1,
+            "70": 2
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.Application.Services.UsuarioService/<GetUsuarioById>d__6": {
+        "System.Void UserChallenge.Application.Services.UsuarioService/<GetUsuarioById>d__6::MoveNext()": {
+          "Lines": {
+            "73": 2,
+            "74": 2,
+            "75": 2,
+            "76": 1,
+            "77": 1,
+            "78": 1
+          },
+          "Branches": [
+            {
+              "Line": 75,
+              "Offset": 164,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 75,
+              "Offset": 164,
+              "EndOffset": 216,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "UserChallenge.Application.Services.UsuarioService/<UpdateUsuario>d__7": {
+        "System.Void UserChallenge.Application.Services.UsuarioService/<UpdateUsuario>d__7::MoveNext()": {
+          "Lines": {
+            "81": 3,
+            "82": 3,
+            "83": 1,
+            "85": 2,
+            "86": 2,
+            "87": 2,
+            "88": 1,
+            "91": 1,
+            "94": 1,
+            "95": 1,
+            "96": 1,
+            "97": 1,
+            "99": 1,
+            "100": 1,
+            "101": 1,
+            "102": 1,
+            "103": 1,
+            "106": 1
+          },
+          "Branches": [
+            {
+              "Line": 82,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 82,
+              "Offset": 27,
+              "EndOffset": 40,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 87,
+              "Offset": 209,
+              "EndOffset": 211,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 87,
+              "Offset": 209,
+              "EndOffset": 261,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 94,
+              "Offset": 301,
+              "EndOffset": 303,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 94,
+              "Offset": 301,
+              "EndOffset": 319,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 94,
+              "Offset": 324,
+              "EndOffset": 326,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 94,
+              "Offset": 324,
+              "EndOffset": 367,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "UserChallenge.Domain.dll": {
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Domain\\Model\\Articulo.cs": {
+      "UserChallenge.Domain.Model.Articulo": {
+        "System.Int32 UserChallenge.Domain.Model.Articulo::get_Id()": {
+          "Lines": {
+            "11": 39
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Articulo::get_Nombre()": {
+          "Lines": {
+            "13": 87
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Domain.Model.Articulo::get_CategoriaId()": {
+          "Lines": {
+            "16": 37
+          },
+          "Branches": []
+        },
+        "UserChallenge.Domain.Model.Categoria UserChallenge.Domain.Model.Articulo::get_Categoria()": {
+          "Lines": {
+            "17": 41
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Domain.Model.Articulo::get_MarcaId()": {
+          "Lines": {
+            "20": 42
+          },
+          "Branches": []
+        },
+        "UserChallenge.Domain.Model.Marca UserChallenge.Domain.Model.Articulo::get_Marca()": {
+          "Lines": {
+            "21": 43
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Domain.Model.Articulo::get_Cantidad()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal UserChallenge.Domain.Model.Articulo::get_Precio()": {
+          "Lines": {
+            "25": 43
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Articulo::get_Descripcion()": {
+          "Lines": {
+            "27": 43
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Domain.Model.Articulo::get_UsuarioCreadorId()": {
+          "Lines": {
+            "30": 0
+          },
+          "Branches": []
+        },
+        "UserChallenge.Domain.Model.Usuario UserChallenge.Domain.Model.Articulo::get_UsuarioCreador()": {
+          "Lines": {
+            "31": 41
+          },
+          "Branches": []
+        },
+        "System.DateTime UserChallenge.Domain.Model.Articulo::get_FechaCreacion()": {
+          "Lines": {
+            "33": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean UserChallenge.Domain.Model.Articulo::get_Activo()": {
+          "Lines": {
+            "35": 44
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Domain\\Model\\Categoria.cs": {
+      "UserChallenge.Domain.Model.Categoria": {
+        "System.Int32 UserChallenge.Domain.Model.Categoria::get_Id()": {
+          "Lines": {
+            "11": 20
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Categoria::get_Nombre()": {
+          "Lines": {
+            "13": 16
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Categoria::get_Descripcion()": {
+          "Lines": {
+            "15": 16
+          },
+          "Branches": []
+        },
+        "System.Boolean UserChallenge.Domain.Model.Categoria::get_Activo()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "UserChallenge.Domain.Model.Usuario UserChallenge.Domain.Model.Categoria::get_UsuarioCreador()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime UserChallenge.Domain.Model.Categoria::get_FechaCreacion()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<UserChallenge.Domain.Model.Articulo> UserChallenge.Domain.Model.Categoria::get_Articulos()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<UserChallenge.Domain.Model.Usuario> UserChallenge.Domain.Model.Categoria::get_Usuarios()": {
+          "Lines": {
+            "25": 16
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Domain\\Model\\Marca.cs": {
+      "UserChallenge.Domain.Model.Marca": {
+        "System.Int32 UserChallenge.Domain.Model.Marca::get_Id()": {
+          "Lines": {
+            "11": 22
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Marca::get_Nombre()": {
+          "Lines": {
+            "13": 22
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Marca::get_Descripcion()": {
+          "Lines": {
+            "15": 20
+          },
+          "Branches": []
+        },
+        "System.Boolean UserChallenge.Domain.Model.Marca::get_Activo()": {
+          "Lines": {
+            "17": 4
+          },
+          "Branches": []
+        },
+        "UserChallenge.Domain.Model.Usuario UserChallenge.Domain.Model.Marca::get_UsuarioCreador()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime UserChallenge.Domain.Model.Marca::get_FechaCreacion()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<UserChallenge.Domain.Model.Articulo> UserChallenge.Domain.Model.Marca::get_Articulos()": {
+          "Lines": {
+            "22": 20
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<UserChallenge.Domain.Model.Usuario> UserChallenge.Domain.Model.Marca::get_Usuarios()": {
+          "Lines": {
+            "23": 20
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Domain\\Model\\MarcaAuto.cs": {
+      "UserChallenge.Domain.Model.MarcaAuto": {
+        "System.Int32 UserChallenge.Domain.Model.MarcaAuto::get_Id()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.MarcaAuto::get_Marca()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean UserChallenge.Domain.Model.MarcaAuto::get_Activo()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.MarcaAuto::get_Tipo()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.MarcaAuto::get_Clase()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<UserChallenge.Domain.Model.Vehiculo> UserChallenge.Domain.Model.MarcaAuto::get_Vehiculos()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Domain\\Model\\Rol.cs": {
+      "UserChallenge.Domain.Model.Rol": {
+        "System.Int32 UserChallenge.Domain.Model.Rol::get_Id()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Rol::get_Nombre()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Rol::get_Descripcion()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean UserChallenge.Domain.Model.Rol::get_Activo()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime UserChallenge.Domain.Model.Rol::get_FechaCreacion()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Domain.Model.Rol::get_UsuarioCreador()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime UserChallenge.Domain.Model.Rol::get_FechaActualizacion()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Domain.Model.Rol::get_UsuarioActualiza()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<UserChallenge.Domain.Model.Usuario> UserChallenge.Domain.Model.Rol::get_Usuarios()": {
+          "Lines": {
+            "26": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Domain\\Model\\Vehiculo.cs": {
+      "UserChallenge.Domain.Model.Vehiculo": {
+        "System.Int32 UserChallenge.Domain.Model.Vehiculo::get_Id()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "UserChallenge.Domain.Model.MarcaAuto UserChallenge.Domain.Model.Vehiculo::get_MarcaAuto()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Domain.Model.Vehiculo::get_MarcaAutoId()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Vehiculo::get_Modelo()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Vehiculo::get_Patente()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Domain.Model.Vehiculo::get_Año()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Vehiculo::get_Version()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Vehiculo::get_Combustible()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Vehiculo::get_Transmision()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Domain.Model.Vehiculo::get_Kilometraje()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Domain.Model.Vehiculo::get_Puertas()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Vehiculo::get_Tipo()": {
+          "Lines": {
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Domain.Model.Vehiculo::get_Asientos()": {
+          "Lines": {
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Vehiculo::get_Color()": {
+          "Lines": {
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Vehiculo::get_Traccion()": {
+          "Lines": {
+            "30": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Vehiculo::get_Condicion()": {
+          "Lines": {
+            "33": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Vehiculo::get_Estado()": {
+          "Lines": {
+            "34": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal UserChallenge.Domain.Model.Vehiculo::get_Precio()": {
+          "Lines": {
+            "35": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.Vehiculo::get_Descripcion()": {
+          "Lines": {
+            "37": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Domain.Model.Vehiculo::get_UsuarioCreadorId()": {
+          "Lines": {
+            "40": 0
+          },
+          "Branches": []
+        },
+        "UserChallenge.Domain.Model.Usuario UserChallenge.Domain.Model.Vehiculo::get_UsuarioCreador()": {
+          "Lines": {
+            "41": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<UserChallenge.Domain.Model.VehiculoImagen> UserChallenge.Domain.Model.Vehiculo::get_Imagenes()": {
+          "Lines": {
+            "44": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime UserChallenge.Domain.Model.Vehiculo::get_FechaCreacion()": {
+          "Lines": {
+            "46": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean UserChallenge.Domain.Model.Vehiculo::get_Activo()": {
+          "Lines": {
+            "47": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Domain\\Model\\VehiculoImagen.cs": {
+      "UserChallenge.Domain.Model.VehiculoImagen": {
+        "System.Int32 UserChallenge.Domain.Model.VehiculoImagen::get_Id()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String UserChallenge.Domain.Model.VehiculoImagen::get_Url()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Domain.Model.VehiculoImagen::get_VehiculoId()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "UserChallenge.Domain.Model.Vehiculo UserChallenge.Domain.Model.VehiculoImagen::get_Vehiculo()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 UserChallenge.Domain.Model.VehiculoImagen::get_Portada()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean UserChallenge.Domain.Model.VehiculoImagen::get_Eliminado()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime UserChallenge.Domain.Model.VehiculoImagen::get_FechaCreacion()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "UserChallenge.Infraestructure.dll": {
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Infraestructure\\Migrations\\20251006083928_LastMigration.cs": {
+      "UserChallenge.Infraestructure.Migrations.LastMigration": {
+        "System.Void UserChallenge.Infraestructure.Migrations.LastMigration::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "10": 0,
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Void UserChallenge.Infraestructure.Migrations.LastMigration::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "15": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Infraestructure\\Migrations\\20251006083928_LastMigration.Designer.cs": {
+      "UserChallenge.Infraestructure.Migrations.LastMigration": {
+        "System.Void UserChallenge.Infraestructure.Migrations.LastMigration::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "108": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Infraestructure\\Migrations\\AppDbContextModelSnapshot.cs": {
+      "UserChallenge.Infraestructure.Migrations.AppDbContextModelSnapshot": {
+        "System.Void UserChallenge.Infraestructure.Migrations.AppDbContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "106": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Infraestructure\\DataAccess\\ArticuloRepository.cs": {
+      "UserChallenge.Infraestructure.DataAccess.ArticuloRepository": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.ArticuloRepository::.ctor(UserChallenge.Infraestructure.Context.AppDbContext)": {
+          "Lines": {
+            "17": 14,
+            "18": 14,
+            "19": 14,
+            "20": 14
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<DeleteArticulo>d__2": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<DeleteArticulo>d__2::MoveNext()": {
+          "Lines": {
+            "23": 1,
+            "24": 1,
+            "25": 1,
+            "26": 1
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<GetAllArticulos>d__3": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<GetAllArticulos>d__3::MoveNext()": {
+          "Lines": {
+            "29": 1,
+            "30": 1,
+            "31": 1
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<GetArticulo>d__4": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<GetArticulo>d__4::MoveNext()": {
+          "Lines": {
+            "34": 2,
+            "35": 2,
+            "36": 2,
+            "37": 1,
+            "39": 2,
+            "40": 1,
+            "41": 2,
+            "42": 2
+          },
+          "Branches": [
+            {
+              "Line": 36,
+              "Offset": 106,
+              "EndOffset": 111,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 36,
+              "Offset": 106,
+              "EndOffset": 250,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 39,
+              "Offset": 273,
+              "EndOffset": 278,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 39,
+              "Offset": 273,
+              "EndOffset": 437,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            }
+          ]
+        }
+      },
+      "UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<GetArticuloById>d__5": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<GetArticuloById>d__5::MoveNext()": {
+          "Lines": {
+            "45": 1,
+            "46": 1,
+            "47": 1
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<GetArticuloCount>d__6": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<GetArticuloCount>d__6::MoveNext()": {
+          "Lines": {
+            "50": 6,
+            "51": 6,
+            "53": 6,
+            "54": 2,
+            "56": 6,
+            "57": 2,
+            "59": 6,
+            "60": 2,
+            "62": 6,
+            "63": 2,
+            "65": 6,
+            "66": 6
+          },
+          "Branches": [
+            {
+              "Line": 53,
+              "Offset": 140,
+              "EndOffset": 145,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 53,
+              "Offset": 140,
+              "EndOffset": 284,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 6
+            },
+            {
+              "Line": 56,
+              "Offset": 302,
+              "EndOffset": 307,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 56,
+              "Offset": 302,
+              "EndOffset": 442,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 6
+            },
+            {
+              "Line": 59,
+              "Offset": 460,
+              "EndOffset": 465,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 59,
+              "Offset": 460,
+              "EndOffset": 600,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 6
+            },
+            {
+              "Line": 62,
+              "Offset": 620,
+              "EndOffset": 625,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            },
+            {
+              "Line": 62,
+              "Offset": 620,
+              "EndOffset": 765,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 6
+            }
+          ]
+        }
+      },
+      "UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<GetArticulosByCategoria>d__7": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<GetArticulosByCategoria>d__7::MoveNext()": {
+          "Lines": {
+            "69": 1,
+            "70": 1,
+            "71": 1
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<GetArticulosByfilters>d__8": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<GetArticulosByfilters>d__8::MoveNext()": {
+          "Lines": {
+            "74": 1,
+            "75": 1,
+            "77": 1,
+            "78": 1,
+            "80": 1,
+            "81": 1,
+            "83": 1,
+            "84": 1,
+            "86": 1,
+            "87": 1,
+            "89": 1,
+            "90": 1
+          },
+          "Branches": [
+            {
+              "Line": 77,
+              "Offset": 140,
+              "EndOffset": 145,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 77,
+              "Offset": 140,
+              "EndOffset": 284,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 80,
+              "Offset": 302,
+              "EndOffset": 307,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 80,
+              "Offset": 302,
+              "EndOffset": 442,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 83,
+              "Offset": 465,
+              "EndOffset": 470,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 83,
+              "Offset": 465,
+              "EndOffset": 629,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 86,
+              "Offset": 649,
+              "EndOffset": 654,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 86,
+              "Offset": 649,
+              "EndOffset": 794,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<UpdateArticulo>d__9": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.ArticuloRepository/<UpdateArticulo>d__9::MoveNext()": {
+          "Lines": {
+            "93": 1,
+            "94": 1,
+            "95": 1,
+            "96": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Infraestructure\\DataAccess\\UsuarioRepository.cs": {
+      "UserChallenge.Infraestructure.DataAccess.UsuarioRepository": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.UsuarioRepository::.ctor(UserChallenge.Infraestructure.Context.AppDbContext)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.Infraestructure.DataAccess.UsuarioRepository/<CreteUsuario>d__2": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.UsuarioRepository/<CreteUsuario>d__2::MoveNext()": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.Infraestructure.DataAccess.UsuarioRepository/<DeleteUsuario>d__3": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.UsuarioRepository/<DeleteUsuario>d__3::MoveNext()": {
+          "Lines": {
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.Infraestructure.DataAccess.UsuarioRepository/<GetById>d__4": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.UsuarioRepository/<GetById>d__4::MoveNext()": {
+          "Lines": {
+            "40": 0,
+            "41": 0,
+            "42": 0
+          },
+          "Branches": []
+        }
+      },
+      "UserChallenge.Infraestructure.DataAccess.UsuarioRepository/<GetUsuariosByFilters>d__5": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.UsuarioRepository/<GetUsuariosByFilters>d__5::MoveNext()": {
+          "Lines": {
+            "45": 0,
+            "46": 0,
+            "49": 0,
+            "50": 0,
+            "52": 0,
+            "53": 0,
+            "55": 0,
+            "56": 0,
+            "58": 0,
+            "59": 0
+          },
+          "Branches": [
+            {
+              "Line": 49,
+              "Offset": 161,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 161,
+              "EndOffset": 325,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 52,
+              "Offset": 353,
+              "EndOffset": 358,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 52,
+              "Offset": 353,
+              "EndOffset": 584,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 612,
+              "EndOffset": 617,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 612,
+              "EndOffset": 843,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "UserChallenge.Infraestructure.DataAccess.UsuarioRepository/<UpdateAsync>d__6": {
+        "System.Void UserChallenge.Infraestructure.DataAccess.UsuarioRepository/<UpdateAsync>d__6::MoveNext()": {
+          "Lines": {
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

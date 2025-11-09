@@ -7,10 +7,16 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "UserChallenge.Domain/1.0.0": {
+        "dependencies": {
+          "coverlet.collector": "3.1.2",
+          "coverlet.msbuild": "6.0.4"
+        },
         "runtime": {
           "UserChallenge.Domain.dll": {}
         }
-      }
+      },
+      "coverlet.collector/3.1.2": {},
+      "coverlet.msbuild/6.0.4": {}
     }
   },
   "libraries": {
@@ -18,6 +24,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "coverlet.collector/3.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wuLDIDKD5XMt0A7lE31JPenT7QQwZPFkP5rRpdJeblyXZ9MGLI8rYjvm5fvAKln+2/X+4IxxQDxBtwdrqKNLZw==",
+      "path": "coverlet.collector/3.1.2",
+      "hashPath": "coverlet.collector.3.1.2.nupkg.sha512"
+    },
+    "coverlet.msbuild/6.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qa7Hg+wrOMDKpXVn2dw4Wlun490bIWsFW0fdNJQFJLZnbU27MCP0HJ2mPgS+3EQBQUb0zKlkwiQzP+j38Hc3Iw==",
+      "path": "coverlet.msbuild/6.0.4",
+      "hashPath": "coverlet.msbuild.6.0.4.nupkg.sha512"
     }
   }
 }

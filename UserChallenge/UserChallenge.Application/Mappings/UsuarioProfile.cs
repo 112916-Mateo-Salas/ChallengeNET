@@ -16,6 +16,7 @@ namespace UserChallenge.Application.Mappings
     {
         public UsuarioProfile()
         {
+                    //Origen,  Destino
             CreateMap<Usuario, RegisterUsuario>()
                 .ForMember(dest => dest.Domicilio, opt => opt.MapFrom(src => src.Domicilio))
                 .ReverseMap();

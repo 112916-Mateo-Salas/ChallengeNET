@@ -8,12 +8,15 @@
     ".NETCoreApp,Version=v6.0": {
       "UserChallenge.UnitTest/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.InMemory": "6.0.36",
           "Microsoft.NET.Test.Sdk": "17.1.0",
           "Moq": "4.20.72",
+          "NUnit": "4.4.0",
           "ReportGenerator": "5.4.16",
           "UserChallenge.API": "1.0.0",
           "UserChallenge.Application": "1.0.0",
           "coverlet.collector": "3.1.2",
+          "coverlet.msbuild": "6.0.4",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3"
         },
@@ -52,6 +55,7 @@
         }
       },
       "coverlet.collector/3.1.2": {},
+      "coverlet.msbuild/6.0.4": {},
       "FluentValidation/11.11.0": {
         "runtime": {
           "lib/net6.0/FluentValidation.dll": {
@@ -175,6 +179,17 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/6.0.36": {},
+      "Microsoft.EntityFrameworkCore.InMemory/6.0.36": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.36"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "assemblyVersion": "6.0.36.0",
+            "fileVersion": "6.0.3624.51504"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/6.0.33": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.36",
@@ -714,6 +729,18 @@
           "lib/netstandard2.0/NuGet.Frameworks.dll": {
             "assemblyVersion": "5.11.0.10",
             "fileVersion": "5.11.0.10"
+          }
+        }
+      },
+      "NUnit/4.4.0": {
+        "runtime": {
+          "lib/net6.0/nunit.framework.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          },
+          "lib/net6.0/nunit.framework.legacy.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
           }
         }
       },
@@ -1700,6 +1727,13 @@
       "path": "coverlet.collector/3.1.2",
       "hashPath": "coverlet.collector.3.1.2.nupkg.sha512"
     },
+    "coverlet.msbuild/6.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qa7Hg+wrOMDKpXVn2dw4Wlun490bIWsFW0fdNJQFJLZnbU27MCP0HJ2mPgS+3EQBQUb0zKlkwiQzP+j38Hc3Iw==",
+      "path": "coverlet.msbuild/6.0.4",
+      "hashPath": "coverlet.msbuild.6.0.4.nupkg.sha512"
+    },
     "FluentValidation/11.11.0": {
       "type": "package",
       "serviceable": true,
@@ -1783,6 +1817,13 @@
       "sha512": "sha512-Se0wloBaAJcLwgSW4hvGdAWjKnuIwgQ2PKTNkvG80PW/WFgedwKomY9wuO5BPewIHlX6huGyP//StQQRQOWr+Q==",
       "path": "microsoft.entityframeworkcore.analyzers/6.0.36",
       "hashPath": "microsoft.entityframeworkcore.analyzers.6.0.36.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.InMemory/6.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-01P8/jXRqx8P9DB7jwue6RAo6beKrHDnPZePZiHcU2rX2hATdKZx5u8H1Lxsao5MaOsgfqNFDDHScBurETfE3Q==",
+      "path": "microsoft.entityframeworkcore.inmemory/6.0.36",
+      "hashPath": "microsoft.entityframeworkcore.inmemory.6.0.36.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/6.0.33": {
       "type": "package",
@@ -1958,6 +1999,13 @@
       "sha512": "sha512-eaiXkUjC4NPcquGWzAGMXjuxvLwc6XGKMptSyOGQeT0X70BUZObuybJFZLA0OfTdueLd3US23NBPTBb6iF3V1Q==",
       "path": "nuget.frameworks/5.11.0",
       "hashPath": "nuget.frameworks.5.11.0.nupkg.sha512"
+    },
+    "NUnit/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7IWJcT9xWNhG9dEGdgAWdH6maCE0eVbeVnizvXACKbAyxbjoJ9+WaEb8qsCTJi3hsb18AJBtoqvWa3G7YYUQfw==",
+      "path": "nunit/4.4.0",
+      "hashPath": "nunit.4.4.0.nupkg.sha512"
     },
     "ReportGenerator/5.4.16": {
       "type": "package",

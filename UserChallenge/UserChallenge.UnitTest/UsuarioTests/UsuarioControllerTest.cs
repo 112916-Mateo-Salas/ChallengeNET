@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using UserChallenge.API.Controllers;
 using UserChallenge.Application.DTOs.Domicilios;
 using UserChallenge.Application.DTOs.Usuarios;
-using UserChallenge.Application.Services;
+using UserChallenge.Application.Services.Interface;
 using UserChallenge.Domain.Model;
 
 namespace UserChallenge.UnitTest.UsuarioTests

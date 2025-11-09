@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using UserChallenge.Application.DTOs.Usuarios;
 using UserChallenge.Domain.Model;
 
-namespace UserChallenge.Application.Services
+namespace UserChallenge.Application.Services.Interface
 {
     //Estos son mis Use Case - Caso de Uso
     public interface IUsuarioService

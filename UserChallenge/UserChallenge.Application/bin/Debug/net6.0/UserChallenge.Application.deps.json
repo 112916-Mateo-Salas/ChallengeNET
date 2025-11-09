@@ -10,7 +10,9 @@
         "dependencies": {
           "AutoMapper": "13.0.1",
           "FluentValidation": "11.11.0",
-          "UserChallenge.Domain": "1.0.0"
+          "UserChallenge.Domain": "1.0.0",
+          "coverlet.collector": "3.1.2",
+          "coverlet.msbuild": "6.0.4"
         },
         "runtime": {
           "UserChallenge.Application.dll": {}
@@ -27,6 +29,8 @@
           }
         }
       },
+      "coverlet.collector/3.1.2": {},
+      "coverlet.msbuild/6.0.4": {},
       "FluentValidation/11.11.0": {
         "runtime": {
           "lib/net6.0/FluentValidation.dll": {
@@ -89,6 +93,20 @@
       "sha512": "sha512-/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
       "path": "automapper/13.0.1",
       "hashPath": "automapper.13.0.1.nupkg.sha512"
+    },
+    "coverlet.collector/3.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wuLDIDKD5XMt0A7lE31JPenT7QQwZPFkP5rRpdJeblyXZ9MGLI8rYjvm5fvAKln+2/X+4IxxQDxBtwdrqKNLZw==",
+      "path": "coverlet.collector/3.1.2",
+      "hashPath": "coverlet.collector.3.1.2.nupkg.sha512"
+    },
+    "coverlet.msbuild/6.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qa7Hg+wrOMDKpXVn2dw4Wlun490bIWsFW0fdNJQFJLZnbU27MCP0HJ2mPgS+3EQBQUb0zKlkwiQzP+j38Hc3Iw==",
+      "path": "coverlet.msbuild/6.0.4",
+      "hashPath": "coverlet.msbuild.6.0.4.nupkg.sha512"
     },
     "FluentValidation/11.11.0": {
       "type": "package",

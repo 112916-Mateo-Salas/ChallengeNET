@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using UserChallenge.Application.DTOs.Usuarios;
-using UserChallenge.Application.Services;
+using UserChallenge.Application.Services.Interface;
 using UserChallenge.Domain.Model;
 
 namespace UserChallenge.API.Controllers

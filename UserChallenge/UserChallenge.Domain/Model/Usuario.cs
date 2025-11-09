@@ -13,19 +13,31 @@ namespace UserChallenge.Domain.Model
     [Table("Usuario")]
     public class Usuario
     {
-        [Key]
-        [Required]
         public int Id { get; set; }
 
-        [Required]
         public string Nombre { get; set; }
 
-        [Required]
+        public string Apellido { get; set; }
+
+        public string Genero { get; set; }
+
+        public int Edad { get; set; }
 
         public string Email { get; set; }
 
         public DateTime FechaCreacion { get; set; }
 
         public Domicilio Domicilio { get; set; }
+
+        public string Contraseña { get; set; }
+
+        // FK a Rol
+        public int RolId { get; set; }               // <-- necesario
+        public Rol Rol { get; set; } = default!;     // navegación
+
+        // Navegación 1:N: artículos creados (si los usás)
+        public ICollection<Articulo> ArticulosCreados { get; set; } = new List<Articulo>();
+        public ICollection<Vehiculo> VehiculosCreados { get; set; } = new List<Vehiculo>();
+
     }
 }

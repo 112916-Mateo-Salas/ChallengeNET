@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using UserChallenge.Application.DTOs.Usuarios;
 using UserChallenge.Application.Mappings;
 using UserChallenge.Application.Repositories;
+using UserChallenge.Application.Services.Interface;
 using UserChallenge.Domain.Model;
 
 namespace UserChallenge.Application.Services

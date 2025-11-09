@@ -15,7 +15,7 @@
           {
             "name": "id",
             "in": "path",
-            "description": "Identificador numérico del usuario.",
+            "description": "Identificador de usuario.",
             "required": true,
             "schema": {
               "type": "integer",

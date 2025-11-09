@@ -18,6 +18,8 @@ namespace UserChallenge.Domain.Model
         public int Id { get; set; }
 
         public int UsuarioId { get; set; }
+
+
         [ForeignKey("usuario")]
         [JsonIgnore]
         public Usuario Usuario { get; set; }
@@ -31,5 +33,7 @@ namespace UserChallenge.Domain.Model
         public string Ciudad { get; set; }
 
         public DateTime FechaCreacion { get; set; }
+
+        public bool Activo { get; set; }
     }
 }

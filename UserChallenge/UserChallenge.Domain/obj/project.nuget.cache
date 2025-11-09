@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Hv3zYOt2QS4=",
+  "dgSpecHash": "LQr1CaUoBkg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Domain\\UserChallenge.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Domain\\UserChallenge.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\coverlet.msbuild\\6.0.4\\coverlet.msbuild.6.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

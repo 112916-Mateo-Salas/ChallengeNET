@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.UnitTest\\UserChallenge.UnitTest.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.UnitTest\\UserChallenge.UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.API\\UserChallenge.API.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.API\\UserChallenge.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.API\\UserChallenge.API.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.API\\UserChallenge.API.csproj",
         "projectName": "UserChallenge.API",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.API\\UserChallenge.API.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.API\\UserChallenge.API.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.API\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\UserChallenge.Application.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\UserChallenge.Application.csproj"
+              "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\UserChallenge.Application.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\UserChallenge.Application.csproj"
               },
-              "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj"
+              "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj"
               }
             }
           }
@@ -87,6 +87,18 @@
             "Swashbuckle.AspNetCore.Filters": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
             }
           },
           "imports": [
@@ -108,18 +120,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\UserChallenge.Application.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\UserChallenge.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\UserChallenge.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\UserChallenge.Application.csproj",
         "projectName": "UserChallenge.Application",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\UserChallenge.Application.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\UserChallenge.Application.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -141,8 +153,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Domain\\UserChallenge.Domain.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Domain\\UserChallenge.Domain.csproj"
+              "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Domain\\UserChallenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Domain\\UserChallenge.Domain.csproj"
               }
             }
           }
@@ -170,6 +182,18 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[11.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
             }
           },
           "imports": [
@@ -188,18 +212,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Domain\\UserChallenge.Domain.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Domain\\UserChallenge.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Domain\\UserChallenge.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Domain\\UserChallenge.Domain.csproj",
         "projectName": "UserChallenge.Domain",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Domain\\UserChallenge.Domain.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Domain\\UserChallenge.Domain.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -238,6 +262,20 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -254,18 +292,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj",
         "projectName": "UserChallenge.Infraestructure",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Infraestructure\\UserChallenge.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -287,8 +325,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\UserChallenge.Application.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\UserChallenge.Application.csproj"
+              "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\UserChallenge.Application.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\UserChallenge.Application.csproj"
               }
             }
           }
@@ -328,6 +366,18 @@
             "MySql.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.33, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
             }
           },
           "imports": [
@@ -346,18 +396,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.UnitTest\\UserChallenge.UnitTest.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.UnitTest\\UserChallenge.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.UnitTest\\UserChallenge.UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.UnitTest\\UserChallenge.UnitTest.csproj",
         "projectName": "UserChallenge.UnitTest",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.UnitTest\\UserChallenge.UnitTest.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.UnitTest\\UserChallenge.UnitTest.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.UnitTest\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -379,11 +429,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.API\\UserChallenge.API.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.API\\UserChallenge.API.csproj"
+              "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.API\\UserChallenge.API.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.API\\UserChallenge.API.csproj"
               },
-              "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\UserChallenge.Application.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserTest\\UserChallenge.Application\\UserChallenge.Application.csproj"
+              "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\UserChallenge.Application.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Ejercitacion\\Challenge\\ChallengeNET\\UserChallenge\\UserChallenge.Application\\UserChallenge.Application.csproj"
               }
             }
           }
@@ -404,6 +454,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.1.0, )"
@@ -411,6 +465,10 @@
             "Moq": {
               "target": "Package",
               "version": "[4.20.72, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.4.0, )"
             },
             "ReportGenerator": {
               "target": "Package",
@@ -421,6 +479,12 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.2, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
             },
             "xunit": {
               "target": "Package",
@@ -449,7 +513,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,6 +8,7 @@ using UserChallenge.API.Handlers;
 using UserChallenge.Application.Mappings;
 using UserChallenge.Application.Repositories;
 using UserChallenge.Application.Services;
+using UserChallenge.Application.Services.Interface;
 using UserChallenge.Application.Validators;
 using UserChallenge.Infraestructure.Context;
 using UserChallenge.Infraestructure.DataAccess;

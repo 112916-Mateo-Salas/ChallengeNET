@@ -16,7 +16,9 @@
           "Swashbuckle.AspNetCore.Annotations": "7.0.0",
           "Swashbuckle.AspNetCore.Filters": "8.0.1",
           "UserChallenge.Application": "1.0.0",
-          "UserChallenge.Infraestructure": "1.0.0"
+          "UserChallenge.Infraestructure": "1.0.0",
+          "coverlet.collector": "3.1.2",
+          "coverlet.msbuild": "6.0.4"
         },
         "runtime": {
           "UserChallenge.API.dll": {}
@@ -41,6 +43,8 @@
           }
         }
       },
+      "coverlet.collector/3.1.2": {},
+      "coverlet.msbuild/6.0.4": {},
       "FluentValidation/11.11.0": {
         "runtime": {
           "lib/net6.0/FluentValidation.dll": {
@@ -675,6 +679,20 @@
       "sha512": "sha512-buwoISwecYke3CmgG1AQSg+sNZjJeIb93vTAtJiHZX35hP/teYMxsfg0NDXGUKjGx6BKBTNKc77O2M3vKvlXZQ==",
       "path": "bouncycastle.cryptography/2.3.1",
       "hashPath": "bouncycastle.cryptography.2.3.1.nupkg.sha512"
+    },
+    "coverlet.collector/3.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wuLDIDKD5XMt0A7lE31JPenT7QQwZPFkP5rRpdJeblyXZ9MGLI8rYjvm5fvAKln+2/X+4IxxQDxBtwdrqKNLZw==",
+      "path": "coverlet.collector/3.1.2",
+      "hashPath": "coverlet.collector.3.1.2.nupkg.sha512"
+    },
+    "coverlet.msbuild/6.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qa7Hg+wrOMDKpXVn2dw4Wlun490bIWsFW0fdNJQFJLZnbU27MCP0HJ2mPgS+3EQBQUb0zKlkwiQzP+j38Hc3Iw==",
+      "path": "coverlet.msbuild/6.0.4",
+      "hashPath": "coverlet.msbuild.6.0.4.nupkg.sha512"
     },
     "FluentValidation/11.11.0": {
       "type": "package",
