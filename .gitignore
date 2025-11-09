@@ -1,0 +1,88 @@
+# ============================================
+# Visual Studio / .NET Ignore
+# ============================================
+
+# Carpetas de compilación
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# Archivos y carpetas generados por Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de cache
+*.cache
+*~ 
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Configuraciones locales
+*.dbmdl
+*.jfm
+*.vsp
+*.vspscc
+*.vssscc
+
+# Archivos de lock
+*.lock.json
+
+# Carpetas de logs y análisis
+TestResult*/
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# ============================================
+# .NET Core
+# ============================================
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# EF Core Migrations (opcional, si no querés versionarlas)
+#migrations/
+
+# ============================================
+# Frontend Node / Angular (si corresponde)
+# ============================================
+node_modules/
+dist/
+build/
+.cache/
+npm-debug.log*
+yarn-error.log*
+
+# Si usás Angular CLI
+.angular/
+
+# ============================================
+# Sistema operativo
+# ============================================
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ============================================
+# IDE adicionales
+# ============================================
+# JetBrains Rider
+.idea/
+*.DotSettings.user
+
+# VS Code local workspace
+.vscode/
